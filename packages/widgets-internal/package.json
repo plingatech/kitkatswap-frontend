@@ -19,7 +19,7 @@
     "bignumber.js": "^9.0.0",
     "date-fns": "^2.29.3",
     "lodash": "^4.17.21",
-    "viem": "^1.2.9"
+    "viem": "^1.10.8"
   },
   "peerDependencies": {
     "styled-system": "^5.1.5",

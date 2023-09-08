@@ -6,7 +6,7 @@
   },
   "private": true,
   "peerDependencies": {
-    "viem": "^1.2.9",
+    "viem": "^1.10.8",
     "date-fns": "^2.29.3",
     "styled-components": "^6.0.7",
     "lodash": "^4.17.21",
@@ -17,7 +17,7 @@
     "@pancakeswap/aptos-swap-sdk": "workspace:*"
   },
   "devDependencies": {
-    "viem": "^1.2.9",
+    "viem": "^1.10.8",
     "styled-components": "^6.0.7",
     "@pancakeswap/swap-sdk-core": "workspace:*",
     "@pancakeswap/sdk": "workspace:*",
